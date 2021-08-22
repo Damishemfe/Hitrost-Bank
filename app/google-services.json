@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058619778666",
+    "project_id": "hitrost-banking",
+    "storage_bucket": "hitrost-banking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058619778666:android:7fa847b157952da63fcc13",
+        "android_client_info": {
+          "package_name": "com.hitrosttech.hitrostbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058619778666-3aicfrk8aombv4utbuav5o3vap8c2e14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcOt02uP30J4Yw_Sw6e5aGMqxOwa6mSN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058619778666-3aicfrk8aombv4utbuav5o3vap8c2e14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

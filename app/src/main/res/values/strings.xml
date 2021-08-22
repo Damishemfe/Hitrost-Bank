@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hitrost Bank</string>
+    <string name="welcome_text">To become a strong, trusted, competitive regional bank,
+    and to support economic development in Nigeria</string>
+    <string name="a_banker">A Banker</string>
+    <string name="hitrost_banking">Hitrost Banking</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="new_user">New User?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="todo1">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="powered_by_hitrost_technology">POWERED BY HITROST TECHNOLOGY</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="sign_up_caps">SIGN UP</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>
